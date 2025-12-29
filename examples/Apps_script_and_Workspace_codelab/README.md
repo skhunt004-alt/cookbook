@@ -8,3 +8,4 @@ Google Workspace tasks - summarising a document, analyzing a chart, sending an e
 Please read and follow along with the main codelab, and if you get stuck you can load these files directly.
 
 This workshop was featured at [Google I/O 2024](https://io.google/2024/).
+
